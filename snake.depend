@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1493297160 source:e:\it\snake\main.cpp
+	<iostream>
+	"Map.h"
+	"Snake.h"
+	"Meal.h"
+
+1493295721 source:e:\it\snake\meal.cpp
+	"Meal.h"
+
+1493297908 e:\it\snake\meal.h
+
+1493295640 source:e:\it\snake\snake.cpp
+	"Snake.h"
+
+1493295640 e:\it\snake\snake.h
+
+1493297608 e:\it\snake\map.h
+
+1493297607 source:e:\it\snake\map.cpp
+	"Map.h"
+	<iostream>
+
